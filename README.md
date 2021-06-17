@@ -23,7 +23,7 @@
 ## Technologies Used
 - Django - version 2.1
 - Python - version 3.7
-- Tech 3 - version 3.0
+
 
 
 ## Features
@@ -36,9 +36,11 @@ List the ready features here:
 
 ## Setup
 Install dependencies
+
 `pip install -r requirements.txt`
 
 Run Migrations
+
 `python manage.py makemigrations`
 
 `python manage.py migrate`
